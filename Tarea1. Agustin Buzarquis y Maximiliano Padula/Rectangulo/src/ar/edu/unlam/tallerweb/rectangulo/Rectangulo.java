@@ -1,6 +1,6 @@
 package ar.edu.unlam.tallerweb.rectangulo;
 
-public class rectangulo {
+public class Rectangulo {
 	private double area;
 	private double perimetro;
 	
